@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e66128e-07dc-4585-81a7-9eead6851424" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bKKQjTZzAfLXozJvmXs9w6q679" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.cleancodeba" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzzKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cleancodeba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.cleancodeba" />
+      <option name="MAIN_CLASS_NAME" value="org.cleancodeba.FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FizzBuzzTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e66128e-07dc-4585-81a7-9eead6851424" name="Default Changelist" comment="" />
+      <created>1588375330774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588375330774</updated>
+      <workItem from="1588375336940" duration="3759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588378934659">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="653" y="237" key="#com.intellij.ide.util.MemberChooser/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588378934659" />
+    <state width="1638" height="264" key="GridCell.Tab.0.bottom" timestamp="1588379256536">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.bottom/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588379256536" />
+    <state width="1638" height="264" key="GridCell.Tab.0.center" timestamp="1588379256534">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.center/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588379256534" />
+    <state width="1638" height="264" key="GridCell.Tab.0.left" timestamp="1588379256534">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.left/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588379256534" />
+    <state width="1638" height="264" key="GridCell.Tab.0.right" timestamp="1588379256535">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.right/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588379256535" />
+    <state width="1638" height="326" key="GridCell.Tab.1.bottom" timestamp="1588377911677">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.bottom/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588377911677" />
+    <state width="1638" height="326" key="GridCell.Tab.1.center" timestamp="1588377911676">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.center/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588377911676" />
+    <state width="1638" height="326" key="GridCell.Tab.1.left" timestamp="1588377911676">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.left/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588377911676" />
+    <state width="1638" height="326" key="GridCell.Tab.1.right" timestamp="1588377911677">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state width="1638" height="326" key="GridCell.Tab.1.right/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588377911677" />
+    <state x="505" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1588377639019">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="505" y="239" width="670" height="676" key="search.everywhere.popup/1680.392.921.1205/0.23.1680.980@0.23.1680.980" timestamp="1588377639019" />
+  </component>
+</project>
